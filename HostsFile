@@ -1,0 +1,20 @@
+# Controller 01
+192.168.2.50    cont01.node6401.gplhost.com		cont01
+
+# Controller 02
+192.168.2.45    cont02.node6401.gplhost.com		cont02
+
+# Compute 01
+192.168.2.51    comp01.node6401.gplhost.com		comp01
+
+# Compute 02
+192.168.2.44    comp02.node6401.gplhost.com		comp02
+
+# Storage 01
+192.168.2.46    stor01.node6401.gplhost.com		stor01
+
+# Storage 02
+192.168.2.49    stor02.node6401.gplhost.com		stor02
+
+# Storage 03
+192.168.2.47    stor03.node6401.gplhost.com		stor03
